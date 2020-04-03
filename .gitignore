@@ -1,5 +1,7 @@
 /.idea/
+*.iml
 /out/
 /External Libraries/
 /target/
 /test/
+src/test/
